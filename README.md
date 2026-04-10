@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://www.espressif.com/" target="_blank" rel="noreferrer">
-    <img src="https://docs.espressif.com/projects/espressif-ide/en/latest/_images/espressif-ide.png" alt="esp-idf" width="40" height="40"/>
+    <img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" alt="esp-idf" width="40" height="40"/>
   </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?
