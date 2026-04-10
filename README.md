@@ -21,6 +21,10 @@ Here are some ideas to get you started:
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
+  
+  <a href="https://www.espressif.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" alt="esp-      idf" width="40" height="40"/>
+  </a>
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -46,8 +50,5 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
   </a>
   
-  <a href="https://www.espressif.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" alt="esp-idf" width="40" height="40"/>
-  </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?
