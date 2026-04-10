@@ -22,9 +22,16 @@ Here are some ideas to get you started:
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
   
-  <a href="https://www.espressif.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" alt="esp-      idf" width="40" height="40"/>
-  </a>
+<a href="https://www.espressif.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" 
+       alt="espressif" width="40" height="40"/>
+</a>
+
+<br/>
+
+<a href="https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html" target="_blank" rel="noreferrer">
+  ESP-IDF Documentation
+</a>
 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
